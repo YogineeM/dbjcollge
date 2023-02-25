@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<!-- === BEGIN HEADER === -->
+	<!--[if IE 8]> <html lang="en" class="ie8">
+    <![endif]-->
+    <!--[if IE 9]> <html lang="en" class="ie9"> 
+    <![endif]-->
+    <!--[if !IE]><!-->
+	<html lang="en">
+    <!--<![endif]-->
+    <head>
+    	<!-- Title -->
+    	<title>DBJ College Chiplun </title>
+    	<!-- Meta -->
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	        <meta name="description" content="">
+    	    	<meta name="author" content="">
+        			<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+			        <!-- Favicon -->
+                    <link href="favicon.ico" rel="shortcut icon">
+                    <!-- Bootstrap Core CSS -->
+                    <link rel="stylesheet" href="doc/css/bootstrap.css" rel="stylesheet">
+                    <!-- Template CSS -->
+                    <link rel="stylesheet" href="doc/css/animate.css" rel="stylesheet">
+                    <link rel="stylesheet" href="doc/css/font-awesome.css" rel="stylesheet">
+                    <link rel="stylesheet" href="doc/css/nexus.css" rel="stylesheet">
+                    <link rel="stylesheet" href="doc/css/responsive.css" rel="stylesheet">
+                    <link rel="stylesheet" href="doc/css/custom.css" rel="stylesheet">
+                    <!-- Google Fonts-->
+                    <link href="http://fonts.googleapis.com/css?family=Roboto:400,300" rel="stylesheet" type="text/css">
+                    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" rel="stylesheet" type="text/css">
+			
+	</head>
+    <body> 
+<div id="body_bg"> 
+  <div class="primary-container-group">             	<!-- Background -->
+                
+    <div class="primary-container-background"> 
+      <div class="primary-container"></div> 
+      <div class="clearfix"></div> 
+    </div>            <!--End Background -->
+            
+    <div class="primary-container"> 
+      <div id="header" class="container"> 
+        <div class="row">                    <!-- Logo -->
+                    
+          <div class="logo"> <a title="" href="index.html"> <img alt="Logo" src="doc/img/logo.png" /> </a> 
+          </div>                    <!-- End Logo -->
+                  
+          <ul class="social-icons pull-right hidden-xs"> 
+            <li class="social-rss"> <a target="_blank" title="RSS" style="display: none;" href="#"></a> </li> 
+            <li class="social-twitter"> <a target="_blank" title="Twitter" href="https://twitter.com/dbjcollege"></a> </li> 
+            <li class="social-facebook"> <a target="_blank" title="Facebook" href="https://www.facebook.com/pg/DBJ-759101224279874/"></a> </li> 
+            <li class="social-googleplus"> <a target="_blank" title="GooglePlus" href="https://plus.google.com/u/0/102809034482220794512"></a> </li> 
+          </ul> 
+        </div> 
+      </div>                   <!-- Top Menu -->
+                    
+      <div id="hornav" class="container no-padding"> 
+        <div class="row"> 
+          <div class="col-md-12 no-padding"> 
+            <div class="pull-right visible-lg"> 
+              <ul id="hornavmenu" class="nav navbar-nav"> 
+                <li> <a class="fa-home" href="index.html">Home</a> </li> 
+                <li> <span class="fa fa-info-circle">About Us</span> 
+                  <ul> 
+                    <li> <a href="nesociety.html">NE Society</a> </li> 
+                    <li> <a href="chairman.html">Chairman's Message</a> </li> 
+                    <li> <a href="principal.html">Principal's Message</a> </li> 
+                    <li> <a href="features.html">Features</a> </li> 
+                    <li> <a href="resources/nesociety/PerPlan.pdf">Perspective Plan</a> </li> 
+                  </ul> </li> 
+                <li> <a class="fa-edit" href="exam.html">Examination</a> </li> 
+                <li> <span class="fa fa-building-o"> Administration</span> 
+                  <ul> 
+                    <li> <a href="acacal.html">Academic Calender</a> </li> 
+                    <li> <a href="resources/notifications/admission.pdf">Admission</a> </li> 
+                    <li> <a href="office.html">Office</a> </li> 
+                  </ul> </li> 
+                <li> <span class="fa fa-users">Departments</span> 
+                  <ul> 
+                    <li class="parent"> <span>Academic</span> 
+                      <ul> 
+                        <li class="parent"> <span>Arts</span> 
+                          <ul> 
+                            <li> <a href="english.html">English</a> </li> 
+                            <li> <a href="marathi.html">Marathi</a> </li> 
+                            <li> <a href="hindi.html">Hindi</a> </li> 
+                            <li> <a href="history.html">History</a> </li> 
+                            <li> <a href="geography.html">Geography</a> </li> 
+                            <li> <a href="psychology.html">Psychology</a> </li> 
+                            <li> <a href="economics.html">Economics</a> </li> 
+                          </ul> </li> 
+                        <li> <a href="commerce.html">Commerce</a> </li> 
+                        <li> <a href="accounts.html">Accountancy</a> </li> 
+                        <li class="parent"> <span>Science</span> 
+                          <ul> 
+                            <li> <a href="physics.html">Physics</a> </li> 
+                            <li> <a href="chemistry.html">Chemistry</a> </li> 
+                            <li> <a href="maths.html">Maths</a> </li> 
+                            <li> <a href="zoology.html">Zoology</a> </li> 
+                            <li> <a href="cs.html">Computer Science</a> </li> 
+                            <li> <a href="it.html">Information Technology</a> </li> 
+                            <li> <a href="biotech.html">Biotech</a> </li> 
+                          </ul> </li> 
+                        <li class="parent"> <span>Management</span> 
+                          <ul> 
+                            <li> <a href="bms.html">BMS</a> </li> 
+                          </ul> </li> 
+                      </ul> </li> 
+                    <li class="parent"> <span>Activities</span> 
+                      <ul> 
+                        <li class="parent"> <span>Co-curricular</span> 
+                          <ul> 
+                            <li> <a href="avishkar.html">Avishkar</a> </li> 
+                            <li> <a href="soilwatlab.html">Soil &amp; Water Testing Lab</a> </li> 
+                            <li> <a href="comlit.html">Computer Literacy</a> </li> 
+                            <li> <a href="comcon.html">Computer Consortium</a> </li> 
+                            <li> <a href="sciaso.html">Science Association</a> </li> 
+                            <li> <a href="lang.html">Language Forum</a> </li> 
+                          </ul> </li> 
+                        <li class="parent"> <span>Extra-curricular </span> 
+                          <ul> 
+                            <li> <a href="nss.html">NSS</a> </li> 
+                            <li> <a href="ncc.html">NCC</a> </li> 
+                            <li> <a href="gymkhana.html">Gymkhana &amp; Sports</a> </li> 
+                            <li> <a href="cultural.html">Cultural</a> </li> 
+                            <li> <a href="nature.html">Nature Club</a> </li> 
+                            <li> <a href="astro.html">Astro Club</a> </li> 
+                          </ul> </li> 
+                      </ul> </li> 
+                  </ul> </li> 
+                <li> <span class="fa-book"> Resources</span> 
+                  <ul> 
+                    <li> <a href="library.html">Library</a> </li> 
+                    <li> <a href="research.html">Research</a> </li> 
+                    <li class="parent"> <span>Learner Supports</span> 
+                      <ul> 
+                        <li> <a href="vkmandal.html">Vidyarthi Kalyan Mandal</a> </li> 
+                        <li> <a href="bcbook.html">B. C. Book Bank</a> </li> 
+                        <li> <a href="emplcar.html">Employment &amp; Career Guidance Cell</a> </li> 
+                        <li> <a href="antrag.html">Anti-ragging Committee</a> </li> 
+                        <li> <a href="women.html">Women Development Cell</a> </li> 
+                        <li> <a href="studgreiv.html">Students' Grievances Committee</a> </li> 
+                        <li> <a href="scholar.html">Scholorship / Freeship</a> </li> 
+                      </ul> </li> 
+                    <li> <a href="syllabus.html">Syllabus</a> </li> 
+                    <li> <a href="questbank.html">Question Bank/Paper</a> </li> 
+                    <li> <a href="modans.html">Model Answers</a> </li> 
+                  </ul> </li> 
+                <li> <span class="fa fa-users">Committees</span> 
+                  <ul> 
+                    <li> <a href="cdc.html">College Development Committee</a> </li> 
+                    <li> <a href="specell.html">Special Cell</a> </li> 
+                  </ul> </li> 
+                <li> <a class="fa fa-calendar" href="naac.html">IQAC</a> </li> 
+                <li> <span class="fa fa-picture-o"> Gallery</span> 
+                  <ul> 
+                    <li> <a href="googlemap.html">MAP</a> </li> 
+                    <li> <a href="photos.html">Photos &amp; Videos</a> </li> 
+                  </ul> </li> 
+                <li> <span class="fa-phone"> Contact</span> 
+                  <ul> 
+                    <li> <a href="contact.php">Contact</a> </li> 
+                    <li> <a href="alumni.php">Alumni</a> </li> 
+                    <li> <a href="feedbak.php">Feedback</a> </li> 
+                  </ul> </li> 
+              </ul> 
+            </div> 
+          </div> 
+        </div> 
+      </div>                    <!-- End Top Menu -->
+          
+              
+                    <!-- === END HEADER === -->
+                    <!-- === BEGIN CONTENT === -->
+                    
+      <div id="content"> 
+        <div class="container no-padding"> <strong> <marquee> <strong>								  Helpline for Divyangjan :Contact- Mr. V.B. Warang(8087352464),Mr. A.P. Kalkutki(8421073155) and for Girls: Dr. Smt. M. P. Vardam(9423049002),Mrs.A. N. Kelkar(9767951595),Mrs. R. R. Bhatiya(9422056787)
+                      
+									  
+								 </strong> </marquee> <h3 align="center"><strong> <br />                      Welcome to DBJ College, Chiplun.
+
+                       <strong> "Converting Knowledge into Wisdom"</strong></strong></h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong> 
+          <div class="row margin-vert-30">                        	<!-- Begin Sidebar Menu -->
+                        		
+            <div class="col-md-3"> 
+              <ul id="sidebar-nav" style="text-align: center; font-size: 12px;" class="list-group sidebar-nav">                                     	 <!-- News -->
+                                        
+                <li class="list-group-item"> <a href="resources/nesociety/CodeStudents.pdf">Code of Conduct</a> </li>										
+                                         <!-- News -->
+                                        
+                <li class="list-group-item"> <a href="policy.html">Policy</a> </li>                                        <!-- End News -->
+                                        <!-- News -->
+                                        
+                <li class="list-group-item"> <a href="activities.html">Activities</a> </li>                                        <!-- End News -->
+                                        <!-- News -->
+                                        
+                <li class="list-group-item"> <a href="news.html">News</a> </li>                                        <!-- End News -->
+                                        
+                <li class="list-group-item"> <a target="_blank" href="notification.html">Notifications<sup><img height="25px" src="doc/img/new.gif" /></sup></a>                                        	<!--<a href="courses.html">Courses</a> </li>                                        <!-- Notification -->
+                                       
+                                        <!-- Notification -->
+                                       	<!-- Sitemap -->
+                                        
+                <li class="list-group-item"> <a href="kaushalya.html">कौशल्यसिंधू </a> </li>                                        <!-- Sitemap -->
+										 	<!-- Sitemap -->
+                                        
+                <li class="list-group-item"> <a href="swayamsiddha.html">स्वयंसिद्धा</a> </li>                                        <!-- Sitemap -->
+                                        <!-- News -->
+                                        
+                <li class="list-group-item"> <a href="resources%5Csongs%5Crashtrageet.mp3">राष्ट्रगीत</a> </li>                                        <!-- End News -->
+                                        <!-- News -->
+                                        
+                <li class="list-group-item"> <a href="resources%5Csongs%5Cmvidyapithgeet.mp3">मुंबई विद्यापीठ गीत</a> </li>                                        <!-- End News -->
+                                        <!-- News -->
+                                        
+                <li class="list-group-item"> <a href="resources%5Csongs%5CDBJ%20Abhimaan.mp3">अभिमान गीत</a> </li>                                        <!-- End News -->
+                                        <!--yuva geet -->
+                                        
+                <li class="list-group-item"> <a href="resources%5Csongs%5CDBJ%20YUVA.mp3">युवा गीत</a> </li>                                        <!-- End yuva geet -->
+                                        <!-- Download Fonts 
+                                        
+                <li class="list-group-item"> <a href="resources%5Cfonts%5Cfonts.rar">Download Fonts</a> </li>                                        <!-- Download Fonts -->
+                                        
+                        		   
+              </ul> 
+            </div>                                <!-- End Sidebar Menu -->
+                                 	
+                                
+            <div class="col-md-9">                              
+                                    <!-- Carousel - Example 1 -->
+                                    
+              <div id="carousel-example-1" data-ride="carousel" class="carousel slide">                                        <!-- Indicators -->
+                                        
+                <ol class="carousel-indicators"> 
+                  <li data-target="#carousel-example-1" data-slide-to="0" class="active">&nbsp;</li>
+                  <li data-target="#carousel-example-1" data-slide-to="1">&nbsp;</li>
+                  <li data-target="#carousel-example-1" data-slide-to="2">&nbsp;</li>
+                  <li data-target="#carousel-example-1" data-slide-to="3">&nbsp;</li>
+                  <li data-target="#carousel-example-1" data-slide-to="4">&nbsp;</li>
+                  <li data-target="#carousel-example-1" data-slide-to="5">&nbsp;</li>
+                </ol>                                        <!-- Wrapper for slides -->
+                                        
+                <div class="carousel-inner"> 
+                  <div class="item active"> <img src="doc/img/slideshow/Slide1.jpg" /> 
+                    <div style="font-size: 22px;" class="carousel-caption"></div> 
+                  </div> 
+                  <div class="item"> <img src="doc/img/slideshow/Slide2.jpg" /> 
+                    <div style="font-size: 22px;" class="carousel-caption"></div> 
+                  </div> 
+                  <div class="item"> <img src="doc/img/slideshow/Slide3.jpg" /> 
+                    <div style="font-size: 22px;" class="carousel-caption"></div> 
+                  </div> 
+                  <div class="item"> <img src="doc/img/slideshow/Slide4.jpg" /> 
+                    <div style="font-size: 22px;" class="carousel-caption"></div> 
+                  </div> 
+                  <div class="item"> <img src="doc/img/slideshow/Slide5.jpg" /> 
+                    <div style="font-size: 22px;" class="carousel-caption"></div> 
+                  </div> 
+                  <div class="item"> <img src="doc/img/slideshow/Slide6.jpg" /> 
+                    <div style="font-size: 22px;" class="carousel-caption"></div> 
+                  </div> 
+                </div>                                        <!-- Controls -->
+                                        <a data-slide="prev" class="left carousel-control" href="#carousel-example-1">&nbsp;</a> <a data-slide="next" class="right carousel-control" href="#carousel-example-1">&nbsp;</a> 
+              </div>                                    <!-- End Carousel - Example 1  -->
+								
+            </div> 
+          </div> 
+        </div> 
+        <div class="container background-gray-lighter"> 
+          <div class="row row-no-margin">                             
+                                <!-- Portfolio -->
+                                
+            <ul class="portfolio-group">                                 <!-- Portfolio Item -->
+                                    
+              <li class="portfolio-item col-sm-3 col-xs-6 no-padding"> <a href="library.html"> <h3>Library</h3>                                            <!--<figure align="center" class="animate fadeInLeft animated"> <img alt="image3" align="center" src="doc/img/image3.png" /> </figure>-->
+                                        </a> </li>                                    <!-- //Portfolio Item// -->
+                                    <!-- Portfolio Item -->
+                                    
+              <li class="portfolio-item col-sm-3 col-xs-6 no-padding"> <a href="alumni.php"> <h3>Alumni</h3>                                           <!-- <figure align="center" class="animate fadeInLeft animated"> <img alt="image1" src="doc/img/image1.png" /> </figure>-->
+                                        </a> </li>                                    <!-- //Portfolio Item// -->
+                                    <!-- Portfolio Item -->
+                                    
+              <li class="portfolio-item col-sm-3 col-xs-6 no-padding"> <a href="emplcar.html"> <h3>Placement Cell</h3>                                           <!-- <figure align="center" class="animate fadeInLeft animated"> <img alt="image2" src="doc/img/image2.png" /> </figure>-->
+                                        </a> </li>                                    <!-- //Portfolio Item// -->
+                                    <!-- Portfolio Item -->
+                                    
+              <li class="portfolio-item col-sm-3 col-xs-6 no-padding"> <a href="acheiv.html"> <h3>Achievements <sup><img height="25px" src="doc/img/new.gif" /></sup></h3>                                            <!--<figure align="center" class="animate fadeInLeft animated"> <img alt="image3" align="center" src="doc/img/image3.png" /> </figure>-->
+                                        </a> </li>                                    <!-- //Portfolio Item// -->
+                                   
+                                   
+                                
+            </ul>                                <!-- End Portfolio -->
+                            
+          </div> 
+        </div> 
+        <div class="container background-gray-lighter"> 
+          <div class="row margin-vert-30"> 
+            <div class="col-md-9"> 
+              <p style="font-size: 16px;" class="animate fadeIn text-center"> 
+                                        Datar Science, Dr. Behere Arts and Shri. Pilukaka Joshi Commerce College(D.B.J. 
+                                          College) was established in the year 1965 by Navkonkan Education Society 
+                                          with the intention of imparting higher education of best quality to the 
+                                          rural community of Konkan region. The Mission of Institution is ,<br /> <b> " To provide study facilities, To Impart knowledge of high quality and 
+                                            To raise self confidence and courage to face challenges in life."</b> <br /> Which 
+                                            in Sanskrit, briefs,<br /></p> 
+              <p class="text-center animate fadeInUp margin-bottom-50"> <button style="border-radius: 12px;" class="btn btn-lg btn-primary" type="button">"तेजस्वीनावधीतमस्तु"</button> </p> 
+              <p style="font-size: 16px;">Dr. G.N. Datar, an eminent medical practitioner from Karad was kind 
+                                          enough to donate Rs. 1,00,000/- for this pious activity. Hence, the college 
+                                          was named as Dr. Datar College. Further, with the generous donations from 
+                                          families of Dr. S.R. Behere and Shri. Pilukaka Joshi, the college was renamed 
+                                          as <b>"Dr. Datar Science, Dr. Behere Arts and Shri. Pilukaka Joshi Commerce 
+                                          College, Chiplun' popularly known as 'D.B.J. College, Chiplun' ".</b></p> 
+              <p style="font-size: 16px;">                                          During this period of last forty seven years, D.B.J. College, Chiplun has become one 
+                                          of the well-known educational centers in the entire Konkan region. The college 
+                                          has acquired 'A' grade as re-accredited from NAAC, Bangalore with CGPA of 
+                                          3.10 and was chosen as "Best College" of the University of Mumbai 
+                                          for the year 2008-2009. </p> <img alt="" style="bottom: -50px; position: relative; left: 85px; margin-top: -20px;" class="visible-lg animate fadeInUp" src="doc/img/dbjmain.jpg" /> <br /> <br /> 
+            </div>                                <!-- End Main Text -->
+                                <!-- Side Column -->
+            <div class="col-md-3"> <h3 class="title">Notices and Upcoming Events<sup><img height="25px" src="doc/img/new.gif" /></sup></h3> <marquee direction="up" scrollamount="2"> 
+                <ul style="padding-left: 15px;"> 
+                  <li><a href="https://sjnprogramming.blogspot.com"> Mr. Suresh Nalawade
+Head and Assistant professor of Computer Science department Recently created website which contains C, C++ and Java programs </a></li> 
+                  <li><a href="resources/notifications/Notice11-01-2021.pdf"> Marksheet Distribution Notice </a></li> 
+                  <li><a href="resources/notifications/SEM%20EXAM%20FORM%20TT.pdf"> कला वाणिज्य विज्ञान पदवी परीक्षा २०-२१ वेळापत्रक </a></li> 
+                  <li><a href="resources/notifications/SEM%20EXAM%20FORM%20TT.pdf"> कला वाणिज्य विज्ञान पदवी परीक्षा अर्जं भरणेसाठी आहावन </a></li> 
+                  <li><a href="resources/notifications/BA%20BCOM%20BSC%20Repeter.jpg"> BA/BCOM/ BSC Repeater EXAM Notice</a></li> 
+                  <li><a href="resources/notifications/shahumaharaj.pdf"> SEM V आणि VI रिपीटर परीक्षा</a></li> 
+                  <li><a href="resources/notifications/shahumaharaj.pdf"> राजर्श्री शाहू महाराज फी सवलत नोटिस</a></li> 
+                  <li><a href="resources/notifications/raktadanshibir.jpg"> NSS रक्तदान शिबीर </a></li> 
+                  <li><a href="resources/notifications/semVrepeter.jpg"> SEM V Repeater Exam Form Notice </a></li> 
+                  <li><a href="resources/notifications/scst%20notice.jpg"> पी. टी. सी./ एस. एस. टी. सी. /माजी सैनिक फी सवलत</a></li> 
+                  <li><a href="resources/notifications/scst%20class.jpg"> PTC/SSTC/EX SERVICEMAN Fee Scheme</a></li> 
+                  <li><a href="resources/notifications/scol%20all.pdf"> Renewal Scholarship and Freeship Notice </a></li> 
+                  <li><a href="resources/notifications/scol%20all%20notice.pdf"> SC/ST/VJ-NT SBC/OBC विद्यार्थ्यासाठी अत्यंत महत्वाची सूचना </a></li> 
+                  <li><a href="resources/notifications/sch1.pdf"> NATIONAL SCHOLARSHIP PORTAL OPEN NOTICE</a></li> 
+                  <li><a href="resources/notifications/sch2.pdf"> सुभद्राबाई शिक्षण निधि शिष्यवृती  </a></li> 
+                  <li><a href="resources/notifications/mscchemadd.jpg"> MSc Chemistry Part I Admission</a> </li> 
+                  <li><a href="resources/notifications/ExamAtkt06-11-20.pdf"> FY/SY ATKT Exam Timetable 2020-21</a> </li> 
+                </ul> </marquee> <hr /> 
+            </div>                                <!-- End Side Column -->
+                            
+                        
+          </div> 
+        </div> 
+      </div> 
+    </div>            <!-- === END CONTENT === -->
+            <!-- === BEGIN FOOTER === -->
+            
+    <div id="base"> 
+      <div class="container padding-vert-10 margin-top-20"> 
+        <div class="row"> 
+          <div align="center">                      <!-- Sample Menu -->
+                        
+            <div align="left" class="col-md-3 margin-bottom-20"> <h3 class="margin-bottom-10"><b>Quick Visits</b></h3> 
+              <ul class="list-unstyled list-services"> 
+                <li>  <a target="_blank" href="http://mu.ac.in/portal/">Mumbai University</a> </li> 
+                <li>  <a target="_blank" href="https://www.ugc.ac.in/">UGC</a> </li> 
+                <li>  <a target="_blank" href="http://www.mum.digitaluniversity.ac/">Digital University</a> </li> 
+                <li>  <a target="_blank" href="https://www.india.gov.in/">Government of India</a> </li> 
+              </ul> 
+            </div> 
+            <div align="left" class="col-md-3 margin-bottom-20"> <h3 class="margin-bottom-10"><br /></h3> 
+              <ul class="list-unstyled list-services"> 
+                <li>  <a target="_blank" href="https://www.maharashtra.gov.in/">Government of Maharashtra</a> </li> 
+                <li>  <a target="_blank" href="http://rusa.nic.in/maharashtra/overview/">RUSA Maharashtra</a> </li> 
+                <li>  <a href="sitemap.html">Sitemap</a> </li> 
+                <li>  <a href="resources%5Cfonts%5Cfonts.rar">Download Fonts</a> </li> 
+              </ul> 
+            </div>                        <!-- End Sample Menu -->
+                        
+            <div align="left" class="col-md-3 margin-bottom-20"> <h3 class="margin-bottom-10"><b>Address</b></h3> 
+              <p style="font-size: 16px;"> <span class="fa-envelope"><a>Mumbai -Goa Highway NH 66, S.K. Patil Nagar,<br /> Chiplun, Maharashtra 415605 </a> <br /><br /> </span></p>							<!-- <h3 align="center" class="margin-bottom-10"><b>Visitor</b></h3> <br /><br /> 
+              <div id="sfcj94jcdxbw64cy41ycqkqy5txezx2m9zu"></div><noscript>                                            &lt;a href="#" title="DBJ Statastics"&gt;
+                                            &lt;img src="https://counter2.freecounter.ovh/private/freecounterstat.php?c=j94jcdxbw64cy41ycqkqy5txezx2m9zu" border="0" title="DBJ Statastics" alt="DBJ Statastics"&gt;&lt;/a&gt;</noscript><a title="website counter widget" href="#"><img border="0" title="DBJ Statastics" alt="DBJ Statastics" src="https://counter2.freecounter.ovh/private/freecounterstat.php?c=j94jcdxbw64cy41ycqkqy5txezx2m9zu" /></a>-->
+                            
+            </div> 
+            <div align="left" class="col-md-3 margin-bottom-20"> <h3 class="margin-bottom-10"><b>Contact Details</b></h3> <span class="fa-phone">Telephone:</span><a>(02355)-252088,256588 </a> <br /> <span class="fa-link">Fax:</span> <a href="index.html">(02355) 250731</a><br /><br /> <span class="fa-envelope">Email:</span> <a href="index.html">dbjcollege@rediffmail.com</a><br /> <span class="fa-link">Website:</span> <a href="www.dbjcollege.org.in">www.dbjcollege.org.in</a> 
+            </div> 
+          </div> 
+          <div class="clearfix"></div> 
+        </div> 
+      </div> 
+    </div>            <!-- Footer Menu -->
+            
+    <div id="footer"> 
+      <div class="container"> 
+        <div class="row"> 
+          <div id="copyright" class="col-md-4"> 
+            <p style="font-size: 14px;"><b>©2018 All Rights Reserved</b></p> 
+          </div> 
+          <div id="footermenu" class="col-md-8"> 
+            <ul class="list-unstyled list-inline pull-right"> 
+              <li> 
+                <p style="font-size: 14px;"><a target="_blank" href="index.html"><b>Designed by Mr. Viraj Oak (Asst. Professor),Mr. Abhijeet Desai(MSc.CS-II) and Ms.Trupti Sakpal (SYBSc.(CS))</b></a></p> </li> 
+            </ul> 
+          </div> 
+        </div> 
+      </div> 
+    </div>			<!-- End Footer Menu -->
+            <!-- JS -->
+      		
+  </div>            
+            
+            
+            <!-- Isotope - Portfolio Sorting -->
+            
+            <!-- Mobile Menu - Slicknav -->
+            
+            <!-- Animate on Scroll-->
+            
+            <!-- Sticky Div -->
+            
+            <!-- Slimbox2-->
+            
+            <!-- Modernizr -->
+            
+            <!-- End JS -->
+        
+</div> </body>
+</html>
+<!-- === END FOOTER === -->
